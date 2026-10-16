@@ -1,0 +1,6 @@
+{
+  "name": "Asisten Analisis LBP BMN",
+  "description": "Aplikasi Asisten Analisis LBP BMN untuk BPT Komdigi. Membantu petugas BMN menyusun Laporan BMN pada Laporan Barang Kuasa Pengguna (LBP) secara cepat, akurat, dan terverifikasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
